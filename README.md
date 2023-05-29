@@ -1,4 +1,3 @@
-# JMWilson-Coder.github.io
 <h1>Welcome to my Portfolio</h1>
   
 <h2> About Me </h2>
