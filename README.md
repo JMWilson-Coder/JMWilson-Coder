@@ -27,17 +27,9 @@
   <ol><li> HTML</li> 
   <li> CSS </li></ol>
   
-<h3> Cloud 9 Tea </h3>
-  <p> The Cloud 9 Tea was an assigment to create a website for a tea shop boutique displaying their products and services.</p>
-<h4> Languages<h4>
-  <ol><li> HTML</li> 
-  <li> CSS </li></ol>
-
 <h3> Spa Resort </h3>
   <p> The Spa Resort was an assignment to create a website for a family resort boutique displaying its products and services.</p>
   
 <h4> Languages<h4>
   <ol><li> HTML</li> 
   <li> CSS </li></ol>
-  
- 
