@@ -5,8 +5,8 @@
 <p> insert stuff here </p>
 
 <h2> Websites </h2>
-	<li><img src="img/contact_us/instagram.png" alt="LinkedIn Logo"><a href="https://www.linkedin.com/in/jennifer-w-b58a2981/">LinkedIn Profile</a></li>
-	<li><img src="img/contact_us/facebook.png" alt="CodePen logo"><a href="https://codepen.io/JMWilson">Code Pen Profile</a></li>
+	<li><a href="https://www.linkedin.com/in/jennifer-w-b58a2981/">LinkedIn Profile</a></li>
+	<li><a href="https://codepen.io/JMWilson">CodePen Profile</a></li>
 
 <h2> Skill Summary </h2>
   
