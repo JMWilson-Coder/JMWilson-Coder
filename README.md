@@ -5,11 +5,11 @@
   
 <p> insert stuff here </p>
 
-<h2> Skill Summary <h2>
+<h2> Skill Summary </h2>
   
 <p> insert stuff here </p>
   
-<h2> Porjects </h2>
+<h2> Projects </h2>
   
 <p> insert stuff here </p>
   
@@ -17,6 +17,10 @@
     
 <p> description </p>
   
-<h3> Cloud 9 Tea </p>
+<h3> Cloud 9 Tea </h3>
+  
+<p> description </p>  
+
+<h3> Spa Reoort </h3>
   
 <p> description </p>  
