@@ -21,7 +21,7 @@
   
 <h3> Pet Stop </h3>
     
-<p> The Pet Stop was an assigment to create a website for a pet boutique displaying their products and services.</p>
+<p> The Pet Stop was an assignment to create a website for a pet boutique displaying its products and services.</p>
 
 <h4> Languages<h4>
   <ol><li> HTML</li> 
