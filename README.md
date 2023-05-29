@@ -1,13 +1,5 @@
 <h1>Welcome to my Portfolio</h1>
   
-<h2> About Me </h2>
-  
-<p> insert stuff here </p>
-
-<h2> Websites </h2>
-	<li><a href="https://www.linkedin.com/in/jennifer-w-b58a2981/">LinkedIn Profile</a></li>
-	<li><a href="https://codepen.io/JMWilson">CodePen Profile</a></li>
-
 <h2> Skill Summary </h2>
   
 <h3> Advanced </h3>
