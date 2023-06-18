@@ -10,14 +10,13 @@
   <li> Canva </li> </ol>
      
   <h3> Intermediate </h3>
-  <ol><li> Graphic Design </li> 
-    <li>WCAG<li></ol> 
+  <ol><li> Graphic Design</li> 
+    <li> WCAG </li></ol>
   
   <h3> Entry </h3>
   <ol><li> HTML</li> 
     <li> CSS </li></ol>
- 
-  
+   
 <h2> Projects </h2>
   
 <h3> Pet Stop </h3>
