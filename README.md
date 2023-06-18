@@ -10,7 +10,8 @@
   <li> Canva </li> </ol>
      
   <h3> Intermediate </h3>
-  <ol> <li> Graphic Design </li></ol> 
+  <ol><li> Graphic Design </li></ol> 
+  <ol><li>WCAG<li><ol> 
   
   <h3> Entry </h3>
   <ol><li> HTML</li> 
