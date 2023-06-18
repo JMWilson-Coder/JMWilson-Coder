@@ -10,7 +10,7 @@
   <li> Canva </li> </ol>
      
   <h3> Intermediate </h3>
-  <ol><li> Web Accessibility Guidelines(WCAG) 2.0</li> 
+  <ol><li> Web Accessibility Guidelines (WCAG) 2.0</li> 
     <li>Graphic Design</li></ol>
   
   <h3> Entry </h3>
