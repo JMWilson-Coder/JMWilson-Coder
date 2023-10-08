@@ -10,13 +10,14 @@
   <li> Canva </li> </ol>
      
   <h3> Intermediate </h3>
-  <ol><li> Web Accessibility Guidelines (WCAG) 2.0</li> 
+  <ol><li> Web Accessibility Guidelines (WCAG) 2.0</li>
     <li> HTML <li>
-     <li> CSS <li>
+    <li> CSS <li>
     <li>Graphic Design</li></ol>
   
   <h3> Entry </h3>
   <ol><li> JavaScript</li> </ol>
+  <li>Aria</li>
    
 <h2> Projects </h2>
   
